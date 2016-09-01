@@ -1,1 +1,2 @@
 This is my first versioned file. MODIFICATION ON  MASTER AND FEATURE300.
+It will have new features... as soon as they are implemented.
